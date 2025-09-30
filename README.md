@@ -8,7 +8,8 @@ O objetivo principal é demonstrar o uso de listas **Lazy** (`LazyColumn` e `Laz
 
 ## Integrantes da Equipe
 - Wesley Assis — RM 552516  
-- Guilherme Silva — RM 98928  
+- Guilherme Silva — RM 98928
+- Pablo Aguayo - RM 551548
 
 ---
 
