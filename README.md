@@ -60,6 +60,7 @@ A lógica central utiliza o **gerenciamento de estado reativo** do Jetpack Compo
 ---
 <img width="1365" height="719" alt="Print Nome Limpo" src="https://github.com/user-attachments/assets/c82dc02e-7e61-43bc-b18c-d45765204005" />
 <img width="1364" height="721" alt="Print Nome Wesley" src="https://github.com/user-attachments/assets/da7c420e-8e81-444f-96ea-ffefa089dcdf" />
+<img width="1363" height="720" alt="image" src="https://github.com/user-attachments/assets/769eda53-f633-4f88-8254-48f2739a203d" />
 
 
 
